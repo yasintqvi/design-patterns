@@ -1,0 +1,16 @@
+{
+    "name": "yasin_tgh/decorator",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yasin taghavi",
+            "email": "mrtqvi@yahoo.com"
+        }
+    ],
+    "require": {}
+}
