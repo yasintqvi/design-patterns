@@ -1,0 +1,16 @@
+{
+    "name": "yasin_tgh/memento",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yasin taghavi",
+            "email": "mrtqvi@yahoo.com"
+        }
+    ],
+    "require": {}
+}
